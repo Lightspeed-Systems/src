@@ -1,0 +1,1 @@
+Pscp -pw myxlplyx -r root@10.16.81.6:/var/spool/MailScanner/quarantine/%1/spam %2
